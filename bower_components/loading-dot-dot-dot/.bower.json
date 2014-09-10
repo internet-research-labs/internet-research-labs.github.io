@@ -1,0 +1,40 @@
+{
+  "name": "loading...",
+  "description": "Generative loading bar",
+  "main": "./dist/loading....js",
+  "dependencies": {
+    "angular": "~1.3.0",
+    "three.js": "*"
+  },
+  "keywords": [
+    "webgl",
+    "loading",
+    "loading..."
+  ],
+  "authors": [
+    "Matt Derasoirs <matt@planwork.us>"
+  ],
+  "license": "UNLICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattvvhat/loading....git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/mattvvhat/loading-dot-dot-dot",
+  "_release": "da09fa2bbc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "da09fa2bbc181d6ca3156c8ca35334d822bc5dbf"
+  },
+  "_source": "git://github.com/mattvvhat/loading-dot-dot-dot.git",
+  "_target": "*",
+  "_originalSource": "loading-dot-dot-dot",
+  "_direct": true
+}

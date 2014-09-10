@@ -1,0 +1,30 @@
+{
+  "name": "loading...",
+  "version": "0.0.1",
+  "description": "Generative loading display",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt-angular-templates": "^0.5.7",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-karma": "^0.8.x",
+    "grunt-wiredep": "^1.8.0"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "webgl",
+    "angular",
+    "loading",
+    "generative"
+  ],
+  "author": "Matt Owen <matt@planwork.us>",
+  "license": "UNLICENSE"
+}
